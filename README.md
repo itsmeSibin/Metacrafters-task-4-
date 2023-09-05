@@ -1,5 +1,5 @@
 # Metacrafters-task-4-
-# CREATE A TOKEN USING SOLIDITY
+# MAKING MY OWN TOKEN 
 This Solidity Program is a simple program that demonstrates the basic functionality of the Solidity Programming Language.
 In this Project, we will create our own token using Solidity Programming Language.
 
