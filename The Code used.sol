@@ -2,8 +2,8 @@
 pragma solidity ^0.8.7;
 
 contract MyToken {
-    string public tokenName = "SOLAR";
-    string public symbol = "SL";
+    string public tokenName = "BITLIT";
+    string public symbol = "BT";
     uint public totalSupply = 0;
     mapping(address => uint) public balances;
 
